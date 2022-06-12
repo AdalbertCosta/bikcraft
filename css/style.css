@@ -1,3 +1,2 @@
-p {
- color: blue;
-}
+@import './global.css';
+@import './header.css';
