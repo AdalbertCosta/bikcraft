@@ -27,12 +27,16 @@
   margin-bottom: 2rem;
   font-size: 4rem;
   line-height: 1.125;
+  font-family: 'Poppins';
+  font-weight: 600;
 }
 .introducao p {
   margin-bottom: 1.25rem;
   font-size: 1.5rem;
   line-height: 1.5;
   color: #b2b2b2;
+  font-family: 'Roboto';
+  font-weight: 400;
 }
 .introducao h1 span {
   color: #ffbb00;
@@ -47,8 +51,10 @@
   color: #332200;
   font-size: 18px;
   line-height: 1.33;
-  font-weight: bold;
+  font-family: 'Poppins';
+  font-weight: 600;
 }
+
 .introducao a:hover {
   background: linear-gradient(#ffb60d, #e59317);
 }
